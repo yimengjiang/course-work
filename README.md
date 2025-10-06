@@ -6,6 +6,7 @@ I am happy to provide any course projects I have completed, by request. Academic
 * [chirouter](https://chi.cs.uchicago.edu/chirouter/index.html) (Simulated IP packet router), C
 * [CrustyDB (Relational Database Management System) 1 - Page, HeapStore, Query Operator](https://github.com/uchicago-cmsc23500-spr-2024/crustydb-upstream), Rust
 * [CrustyDB (Relational Database Management System) 2 - Lock Manager, Hash Index, Compression](https://github.com/cmsc23530-win25/CrustyDB-AdvDBProjects), Rust
+* Robotics projects, Python & ROS
 * Basic UNIX Shell, C
 * Basic memory allocator (malloc) for the heap of a user-level process, C
 * "Upturn," a two-player strategy board game with multithreading, C
